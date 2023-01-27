@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@jensforstmann/factorio-blueprint-tools": "^1.2.7",
+    "copy-to-clipboard": "^3.3.3",
+    "lodash": "^4.17.21",
+    "node-clipboardy": "^1.0.3"
+  }
+}
