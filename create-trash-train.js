@@ -60,7 +60,7 @@ function createTrashTrain() {
               ],
             },
             {
-              station: "Depot",
+              station: "Depot 1-1 train",
               wait_conditions: [
                 {
                   compare_type: "or",
@@ -84,7 +84,7 @@ function createTrashTrain() {
               ],
             },
             {
-              station: "Depot",
+              station: "Depot 1-1 train",
             },
           ],
         },

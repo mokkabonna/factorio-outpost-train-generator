@@ -73,7 +73,7 @@ function createWagon(filters, label, signal, loaderStations, dropOffStation) {
               ],
             },
             {
-              station: "Depot",
+              station: "Depot 1-1 train",
               wait_conditions: [
                 {
                   compare_type: "or",
